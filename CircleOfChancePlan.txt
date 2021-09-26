@@ -1,0 +1,38 @@
+#GAME
+    #ROUNDONE
+        #TURN:
+            #GUESS WORD
+
+            #OR
+
+            #SPIN WHEEL:
+            #GUESS CONSENT  (Unless loose a turn or bankrupt)
+            #GO AGAIN (IF CORRECT)
+
+            #OR
+
+            #BUY VOWEL
+            #GUESS VOWEL
+            #GO AGAIN (IF CORRECT)
+    #ROUNDTWO
+        #TURN:
+            #GUESS WORD
+
+            #OR
+
+            #SPIN WHEEL:
+            #GUESS CONSENT  (Unless loose a turn or bankrupt)
+            #GO AGAIN (IF CORRECT)
+
+            #OR
+
+            #BUY VOWEL
+            #GUESS VOWEL
+            #GO AGAIN (IF CORRECT)
+    #ROUNDTHREE
+        #REVEAL R-S-T-L-N-E
+        #PICK 3 more consent and 1 more vowel
+        #TIMER (5 seconds to guess the word)
+        #INFINITE NUMBER OF GUESSES!!! (5 seconds)
+
+
